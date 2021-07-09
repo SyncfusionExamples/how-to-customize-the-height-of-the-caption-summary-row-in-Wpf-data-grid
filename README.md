@@ -4,7 +4,7 @@
 
 This example illustrates how to customize the height of the CaptionSummaryRow in WPF DataGrid (SfDataGrid).
 
-(WPF DataGrid)[https://www.syncfusion.com/wpf-ui-controls/datagrid] (SfDataGrid) provides support to customize the height of the CaptionSummaryRow by setting the height of the caption summary row in [SfDataGrid.QueryRowHeight](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_QueryRowHeight) event.
+[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) provides support to customize the height of the CaptionSummaryRow by setting the height of the caption summary row in [SfDataGrid.QueryRowHeight](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.SfDataGrid.html#Syncfusion_UI_Xaml_Grid_SfDataGrid_QueryRowHeight) event.
 
 ```C#
 
