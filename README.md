@@ -27,6 +27,7 @@ private void DataGrid_QueryRowHeight(object sender, Syncfusion.UI.Xaml.Grid.Quer
 
 ![Customizing CaptionSummaryRow Height](CaptionSummaryRowHeight.png)
 
+KB article - [How to customize the height of the CaptionSummaryRow in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12751/how-to-customize-the-height-of-the-captionsummaryrow-in-wpf-datagrid-sfdatagrid)
 
 ## Requirements to run the demo
 
